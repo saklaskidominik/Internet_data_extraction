@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Raw downloaded data
+data/raw/
+
+# Local database
+data/database/*.duckdb
+data/database/*.duckdb.wal
+data/database/*.duckdb.tmp
+
+# Generated processed files
+data/processed/*.csv
+data/processed/*.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

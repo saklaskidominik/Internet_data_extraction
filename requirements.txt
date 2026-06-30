@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+duckdb
+sqlalchemy
+python-dotenv
+schedule
+geopy
+tqdm
+matplotlib
+plotly
+folium
+streamlit
